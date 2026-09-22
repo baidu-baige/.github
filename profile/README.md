@@ -17,8 +17,9 @@
 |---|---|---|
 | 🔥 | [**LoongForge**](https://github.com/baidu-baige/LoongForge)<br/>[![stars](https://img.shields.io/github/stars/baidu-baige/LoongForge?style=flat&logo=github&label=%E2%AD%90)](https://github.com/baidu-baige/LoongForge) | **Training.** One unified, high-performance framework to train LLMs, VLMs, diffusion, and embodied models — on NVIDIA GPUs *and* Kunlun XPUs. |
 | 🔥 | [**LoongSage**](https://github.com/baidu-baige/LoongSage)<br/>[![stars](https://img.shields.io/github/stars/baidu-baige/LoongSage?style=flat&logo=github&label=%E2%AD%90)](https://github.com/baidu-baige/LoongSage) | **Agentic RL.** A production-grade, high-efficiency Agentic RL framework for frontier LLMs with validated recipes. |
+| 🔥 | [**sglang-kunlun**](https://github.com/baidu-baige/sglang-kunlun)<br/>[![stars](https://img.shields.io/github/stars/baidu-baige/sglang-kunlun?style=flat&logo=github&label=%E2%AD%90)](https://github.com/baidu-baige/sglang-kunlun) | **Inference.** SGLang Kunlun (sglang-kunlun) is a community-maintained hardware plugin designed to seamlessly run SGLang on the Kunlun XPU. |
 | 🧠 | [**LoongFlow**](https://github.com/baidu-baige/LoongFlow)<br/>[![stars](https://img.shields.io/github/stars/baidu-baige/LoongFlow?style=flat&logo=github&label=%E2%AD%90)](https://github.com/baidu-baige/LoongFlow) | **Agents.** An expert-grade agent framework that learns from its own runs — Plan-Execute-Summary loops plus structured experiential memory, built for hard software-engineering, math, and ML tasks. |
-| ⚡ | [**LU-KV**](https://github.com/baidu-baige/LU-KV)<br/>[![ICML 2026](https://img.shields.io/badge/ICML-2026-b31b1b)](https://github.com/baidu-baige/LU-KV) | **Inference.** Task-agnostic KV cache eviction via long-horizon token utility optimization — official implementation of *"Predicting Future Utility: Global Combinatorial Optimization for Task-Agnostic KV Cache Eviction"*. |
+
 
 ## 🤝 Community
 
